@@ -21,5 +21,5 @@ This Dashboard Develop an efficient system to monitor the real-time status of pa
 2018-2021
 
 ## Metrics Required 
-Average ad Median waiting list 
-Current Total wait list  
+- Average aNd Median waiting list 
+- Current Total wait list  
