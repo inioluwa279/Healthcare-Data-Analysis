@@ -1,6 +1,6 @@
 # Healthcare Data (Patient Wait List) - Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/4HHtOqckwF?ctid=101a25dd-1bdf-4bbe-9745-4cdf2793af91&pbi_source=linkShare
+### Dashboard Link : [https://app.powerbi.com/links/4HHtOqckwF?ctid=101a25dd-1bdf-4bbe-9745-4cdf2793af91&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiM2NhYWJhYzMtNTg5My00NDczLTlmMWEtM2FhZjQ4NWRhMWQ2IiwidCI6IjEwMWEyNWRkLTFiZGYtNGJiZS05NzQ1LTRjZGYyNzkzYWY5MSJ9)
 
 ## Problem Statement 
 
