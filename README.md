@@ -1,20 +1,23 @@
 # Healthcare Data (Patient Wait List) - Dashboard
 
 ### Dashboard Link : [https://app.powerbi.com/links/4HHtOqckwF?ctid=101a25dd-1bdf-4bbe-9745-4cdf2793af91&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiM2NhYWJhYzMtNTg5My00NDczLTlmMWEtM2FhZjQ4NWRhMWQ2IiwidCI6IjEwMWEyNWRkLTFiZGYtNGJiZS05NzQ1LTRjZGYyNzkzYWY5MSJ9)
+###
+The healthcare waitlist data from 2018 to 2021 has been thoroughly analyzed to provide insights into patient case loads, case types, and waiting times across various specialties. The data reflects the performance and demand on healthcare services over the four-year period. A notable increase in outpatient cases was observed, peaking in 2020, with a subsequent decline in 2021. The analysis also highlights the distribution of cases amongst different patient age profiles and waiting time bands.
+## Methodology
+###
+The analysis was conducted using Power BI as the sole tool for data visualization and interpretation. The following steps were taken:
 
-## Problem Statement 
-
-This Dashboard Develop an efficient system to monitor the real-time status of patient waiting lists and conducting a comprehensive analysis of historical monthly trends for both inpatient and outpatient categories pose a critical challenge. The problem statement includes the need for detailed insights into specialty-specific and age-specific profiles within the waiting lists. Addressing this issue requires the establishment of a robust tracking mechanism and analytical framework, ensuring a thorough understanding of the evolving dynamics in healthcare services and facilitating informed decision-making for resource allocation and patient prioritization.
-
-### Steps followed 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Transformation and Modelling
-- Step 3 : Data Visualization Blueprint
-- Step 4 : Dashboard Layout and Design 
-- Step 5 : Interactivity and Navigation 
-- Step 6 : Testing 
-- Step 7 : Sharing 
-- Step 8 : Maintaing and refreshing
+- **Data Collection**: Data was gathered from annual waitlist CSV files for inpatient and outpatient cases from 2018 to 2021, along with specialty mapping information.
+- **Data Preparation**: The CSV files were imported into Power BI. Necessary data transformations, such as parsing dates and handling missing values, were applied to ensure data integrity.
+- **Data Aggregation**: Waitlist data was aggregated to identify the total number of cases per year by case type and specialty. Further grouping by age profiles and wait times provided insights into demographics and service efficiency.
+- **Data Visualization**: Interactive dashboards were created to visualize the data over time, by case type, and by specialty. These visualizations allowed for easy identification of trends and patterns.
+##
+**Detailed Findings**
+**Case Volume Over Time**:
+###
+- **Outpatient cases**: There was a significant increase in outpatient cases from 6,127,911 in 2018 to a peak of 7,061,672 in 2020, followed by a decrease to 1,878,614 in 2021.
+- **Inpatient cases**: Numbers remained relatively stable, with a slight increase from 261,646 in 2018 to 268,596 in 2020, and a subsequent decrease to 67,665 in 2021.
+- **Day cases**: The numbers increased from 649,936 in 2018 to 654,655 in 2020, before dropping sharply to 174,700 in 2021.
 
 
 ## Data Scope 
