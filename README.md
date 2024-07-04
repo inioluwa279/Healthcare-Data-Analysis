@@ -6,7 +6,7 @@ The healthcare waitlist data from 2018 to 2021 has been thoroughly analyzed to p
 ## Data Scope 
 2018-2021
 ## Metrics Required 
-- Average aNd Median waiting list 
+- Average and Median waiting list 
 - Current Total wait list  
 ## Methodology
 ###
